@@ -1,3 +1,5 @@
+các lệnh cần chạy
+
 Pip install pipenv
 pipenv install django==4.0
 pipenv shell 
