@@ -1,0 +1,3 @@
+pipenv
+django==4.0
+djangorestframework
