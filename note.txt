@@ -1,4 +1,5 @@
 các lệnh cần chạy
+heroku :django-crud-person-1
 
 Pip install pipenv
 pipenv install django==4.0
